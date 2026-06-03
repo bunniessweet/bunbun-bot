@@ -48,6 +48,22 @@ const ranks = [
   "Immortal","Radiant"
 ];
 
+const quotes = [
+  "૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა you are soft like clouds ☁️",
+  "💗 everything feels better with you",
+  "🌸 stay gentle, the world needs you",
+  "🧸 you are someone’s favorite person",
+  "✨ small things, big happiness"
+];
+
+const valorankGifs = [
+  "https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif",
+  "https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif",
+  "https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif",
+  "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif",
+  "https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif"
+];
+
 // ───────────────── SHOP
 const shop = [
   { id:"1", name:"🍡 cinnabun", desc:"highest tier", cost:2000, roleId:"1511821810755440710", icon:"🍡" },
